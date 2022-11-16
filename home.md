@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/mm_home_background_image.jpg.jpg
+  overlay_image: /assets/mm_home_background_image.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
@@ -19,7 +19,7 @@ feature_row:
     url: "/docs/configuration/" #연결할 페이지
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/test_image_1.jfif
+  - image_path: /assets/test_image_2.jfif
     alt: "test_image_2"
     title: "빵실 코기"
     excerpt: "눈누난나"
