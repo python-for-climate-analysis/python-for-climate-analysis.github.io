@@ -1,6 +1,6 @@
 ---
 permalink: /gettingStart/
-title: "데스크탑 Linux 가상환경"
+title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
