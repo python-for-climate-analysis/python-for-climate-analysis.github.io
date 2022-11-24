@@ -1,3 +1,12 @@
+---
+layout: post
+title: "데스크탑 Linux 가상환경 설정하기"
+subtitle: "[Tips]"
+date: 2022-11-24 16:00
+background: 
+tag: [Tips, Desktops, Ubuntu, Python, installation]
+---
+
 # 데스크탑 Linux 가상환경
 
 # 1. 우분투 설치
