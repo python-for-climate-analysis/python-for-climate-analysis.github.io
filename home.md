@@ -5,9 +5,9 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/mm_home_background_image.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+  #actions:
+    #- label: "<i class='fas fa-download'></i> Install now"
+    #  url: "/docs/quick-start-guide/"
 excerpt: >
   파이썬으로 기후과학 분석하기<br />
     <small>재분석, 지점관측, 모델자료 등 뭐든지~ <br />지도도 그리고 챠트도 그리고 머든 다 해봄니다</small>
