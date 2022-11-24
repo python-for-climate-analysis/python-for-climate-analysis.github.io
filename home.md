@@ -16,7 +16,7 @@ feature_row:
     alt: "test_image_1"
     title: "준비하기"
     excerpt: "윈도우-우분투로 파이썬 환경 설치하기"
-    url: "/docs/_pages/gettingStart/" #연결할 페이지
+    url: "/gettingStart/" #연결할 페이지
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/test_image_2.jfif
