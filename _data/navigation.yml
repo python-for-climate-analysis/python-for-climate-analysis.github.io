@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Getting Start"
-    url: /gettingStart/
+    url: https://python-for-climate-analysis.github.io/docs/gettingStart/
   # - title: "Samples"
   #   url: /year-archive/
   # - title: "Sample Collections"
