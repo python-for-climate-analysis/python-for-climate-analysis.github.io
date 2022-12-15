@@ -4,6 +4,7 @@ permalink: /gettingStart/
 title: "Linux 가상환경 만들기"
 excerpt: "PC/Laptop WINDOWS에서 Ubuntu를 이용한 Linux 가상환경 만들기"
 last_modified_at: 2022-11-27T11:59:26-04:00
+authour_profile: true
 toc: true
 ---
 
