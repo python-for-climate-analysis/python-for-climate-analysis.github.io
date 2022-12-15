@@ -17,11 +17,11 @@ toc: true
 
 설정에서 'windows 기능 켜기/끄기' 을 검색 후 클릭 → 'Linux용 Windows 하위시스템'을 찾아서 체크
 
-![Untitled](%E1%84%83%E1%85%A6%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%90%E1%85%A1%E1%86%B8%20Linux%20%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%AA%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%204246c7dca3c34530b39d46b866d1b90b/Untitled.png)
+![img](/assets/fig_gettingStart_1.png)
 
 ### 개발자용 기능 사용 체크
 
-![Untitled](%E1%84%83%E1%85%A6%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%90%E1%85%A1%E1%86%B8%20Linux%20%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%AA%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%204246c7dca3c34530b39d46b866d1b90b/Untitled%201.png)
+![img](/assets/fig_gettingStart_2.png)
 
 ## 1-2. 우분투 설치하기
 
