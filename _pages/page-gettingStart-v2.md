@@ -8,6 +8,9 @@ authour_profile: true
 toc: true
 ---
 
+
+
+
 # 데스크탑 Linux 가상환경
 
 # 1. 우분투 설치
