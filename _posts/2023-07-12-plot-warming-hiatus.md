@@ -1,12 +1,5 @@
 ---
 title: "plot: timeseries"
-excerpt_separator: "<!--more-->"
-categories:
-  - Post Formats
-tags:
-  - plot
-  - timeseries
-  - hiatus
 ---
 
 
