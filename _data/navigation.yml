@@ -2,9 +2,9 @@
 main:
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Getting Start"
+  - title: "준비하기"
     url: /gettingStart/
-  - title: "Samples"
+  - title: "도전하기"
     url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
