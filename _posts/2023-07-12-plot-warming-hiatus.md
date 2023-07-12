@@ -1,5 +1,11 @@
 ---
 title: "plot: timeseries"
+categories:
+  - Post Formats
+tags:
+  - Post Formats
+  - readability
+  - standard
 ---
 
 
