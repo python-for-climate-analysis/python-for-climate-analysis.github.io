@@ -1,3 +1,15 @@
+---
+title: "plot: timeseries"
+excerpt_separator: "<!--more-->"
+categories:
+  - Post Formats
+tags:
+  - plot
+  - timeseries
+  - hiatus
+---
+
+
 ```python
 import numpy as np
 import xarray as xr
