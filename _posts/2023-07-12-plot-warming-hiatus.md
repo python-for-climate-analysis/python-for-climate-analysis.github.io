@@ -1,5 +1,5 @@
 ---
-title: "plot: timeseries"
+title: "plot: timeseries detrend"
 categories:
   - Post Formats
 tags:
