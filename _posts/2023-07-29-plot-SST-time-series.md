@@ -16,7 +16,7 @@ tags:
 
 ## The main figure of this posting
 
-<img src="./python_example_230729_SST_trend_ts.png" alt="drawing" width="600"/>
+<img src="assets/python_example_230729_SST_trend_ts.png" alt="drawing" width="600"/>
 
 ## Import python packages
 
