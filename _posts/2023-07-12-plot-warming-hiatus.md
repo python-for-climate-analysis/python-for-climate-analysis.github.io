@@ -2,11 +2,10 @@
 title: "plot: timeseries detrend"
 categories:
   - Timeseries
-  - trend 
+  - Detrend 
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - xarray
+
 ---
 
 
