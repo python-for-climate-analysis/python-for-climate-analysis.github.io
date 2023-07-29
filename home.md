@@ -23,7 +23,7 @@ feature_row:
     alt: "test_image_2"
     title: "도전하기"
     excerpt: "예제와 함께 본격적 시작!"
-    url: "/year-archive/"
+    url: "/categories/" #"/year-archive/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/test_image_3.jfif
