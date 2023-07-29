@@ -2,7 +2,7 @@
 
 ## The main figure of this posting
 
-![python_example_230729_SST_trend_ts.png](Calculate%20the%20SST%20trend%20and%20time%20series%205fb8ba87f2404f57a58e3790701deef7/python_example_230729_SST_trend_ts.png)
+![python_example_230729_SST_trend_ts.png](./python_example_230729_SST_trend_ts.png)
 
 ## Import python packages
 
