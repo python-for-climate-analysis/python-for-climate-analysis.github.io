@@ -1,7 +1,8 @@
 ---
 title: "plot: timeseries detrend"
 categories:
-  - Post Formats
+  - Timeseries
+  - trend 
 tags:
   - Post Formats
   - readability
