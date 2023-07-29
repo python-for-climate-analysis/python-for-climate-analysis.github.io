@@ -2,7 +2,7 @@
 
 ## The main figure of this posting
 
-![python_example_230729_SST_trend_ts.png](./python_example_230729_SST_trend_ts.png)
+<img src="./python_example_230729_SST_trend_ts.png" alt="drawing" width="200"/>
 
 ## Import python packages
 
