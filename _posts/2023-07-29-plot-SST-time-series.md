@@ -1,3 +1,17 @@
+---
+title: "plot: timeseries detrend"
+categories:
+  - Timeseries
+  - Trend
+  - Spatial distribution 
+tags:
+  - xarray
+  - HadISST
+  - cartopy
+---
+
+
+
 # Calculate the SST trend and time series
 
 ## The main figure of this posting
