@@ -1,5 +1,5 @@
 ---
-title: "plot: timeseries detrend"
+title: "plot: HadISST timeseries long-term trend"
 categories:
   - Timeseries
   - Trend
