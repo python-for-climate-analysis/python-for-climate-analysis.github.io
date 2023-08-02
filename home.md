@@ -12,6 +12,13 @@ excerpt: >
   파이썬으로 기후과학 분석하기<br />
     <small>재분석, 지점관측, 모델자료 등 뭐든지~ <br />지도도 그리고 챠트도 그리고 머든 다 해봄니다</small>
 feature_row:
+  - image_path: /assets/test_logo_image.jpg
+    alt: "profile"
+    title: "누구게"
+    excerpt: "잡담"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "See more"  
   - image_path: /assets/planet-earth.png
     alt: "image_1"
     title: "준비하기"
@@ -26,13 +33,7 @@ feature_row:
     url: "/categories/" #"/year-archive/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  #- image_path: /assets/test_image_3.jfif
-  #  alt: "test_image_3"
-  #  title: "뽐내기"
-  #  excerpt: "여긴 뭐하지 QnA?"
-  #  url: "/docs/license/"
-  #  btn_class: "btn--primary"
-  #  btn_label: "Learn more"      
+    
 ---
 
 {% include feature_row %}
