@@ -26,13 +26,13 @@ feature_row:
     url: "/categories/" #"/year-archive/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/test_image_3.jfif
-    alt: "test_image_3"
-    title: "뽐내기"
-    excerpt: "여긴 뭐하지 QnA?"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+  #- image_path: /assets/test_image_3.jfif
+  #  alt: "test_image_3"
+  #  title: "뽐내기"
+  #  excerpt: "여긴 뭐하지 QnA?"
+  #  url: "/docs/license/"
+  #  btn_class: "btn--primary"
+  #  btn_label: "Learn more"      
 ---
 
 {% include feature_row %}
