@@ -2,9 +2,9 @@
 layout: splash
 permalink: /
 hidden: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/mm_home_background_image.jpg
+#header:
+  #overlay_color: "#5e616c"
+  #overlay_image: /assets/mm_home_background_image.jpg
   #actions:
     #- label: "<i class='fas fa-download'></i> Install now"
     #  url: "/docs/quick-start-guide/"
