@@ -12,7 +12,7 @@ excerpt: >
   파이썬으로 기후과학 분석하기<br />
     <small>재분석, 지점관측, 모델자료 등 뭐든지~ <br />지도도 그리고 챠트도 그리고 머든 다 해봄니다</small>
 feature_row:
-  - image_path: /assets/test_image_1.jpg
+  - image_path: <a href="https://www.flaticon.com/free-stickers/planet" title="planet stickers">Planet stickers created by Stickers - Flaticon</a> #/assets/test_image_1.jpg
     alt: "test_image_1"
     title: "준비하기"
     excerpt: "윈도우-우분투로 파이썬 환경 설치하기"
